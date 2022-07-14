@@ -12,4 +12,4 @@ MONGO_URI=''
 ##create cloudinary account
 
 --> create image preset in cloudinary
---> make changes as per your upload preset in gallery/src/components/Header.js
+--> make changes as per your upload preset and cloud name in gallery/src/components/Header.js
